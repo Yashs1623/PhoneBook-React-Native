@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813635210114",
+    "project_id": "phonebook-f434b",
+    "storage_bucket": "phonebook-f434b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813635210114:android:7b9f0aa9d542a960ae5d9b",
+        "android_client_info": {
+          "package_name": "com.sampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813635210114-ushu4ij8vffnoh0d1k1d38cbfmcllqk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKOnt7fU1J8jOf_doPtaiU_ESD6AZl1ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813635210114-ushu4ij8vffnoh0d1k1d38cbfmcllqk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
