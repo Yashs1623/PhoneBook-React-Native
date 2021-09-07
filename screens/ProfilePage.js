@@ -5,7 +5,7 @@ import { View, StyleSheet, TextInput, Alert, Pressable,Text } from 'react-native
 export default function ProfilePage({ navigation }) {
     useEffect(() => {
         readData();
-    },[])
+    },[]);
     const [fullName, setfullName] = useState('');
     const [phoneNumber, setphoneNumber] = useState('');
     const [email, setemail] = useState('');
